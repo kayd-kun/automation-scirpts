@@ -1,0 +1,169 @@
+1: Two Sum
+27: Remove Element
+66: Plus One
+108: Convert Sorted Array to Binary Search Tree
+119: Pascal's Triangle II
+136: Single Number
+163: Missing Ranges
+170: Two Sum III - Data structure design
+219: Contains Duplicate II
+243: Shortest Word Distance
+268: Missing Number
+303: Range Sum Query - Immutable
+349: Intersection of Two Arrays
+414: Third Maximum Number
+448: Find All Numbers Disappeared in an Array
+463: Island Perimeter
+495: Teemo Attacking
+500: Keyboard Row
+561: Array Partition
+575: Distribute Candies
+598: Range Addition II
+604: Design Compressed String Iterator
+628: Maximum Product of Three Numbers
+645: Set Mismatch
+674: Longest Continuous Increasing Subsequence
+697: Degree of an Array
+724: Find Pivot Index
+734: Sentence Similarity
+747: Min Cost Climbing Stairs
+749: Shortest Completing Word
+777: Toeplitz Matrix
+816: Design HashSet
+822: Unique Morse Code Words
+830: Largest Triangle Area
+841: Shortest Distance to a Character
+890: Lemonade Change
+919: Projection Area of 3D Shapes
+928: Surface Area of 3D Shapes
+941: Sort Array By Parity
+950: X of a Kind in a Deck of Cards
+965: Unique Email Addresses
+979: DI String Match
+990: Verifying an Alien Dictionary
+1018: Largest Perimeter Triangle
+1031: Add to Array-Form of Integer
+1041: Available Captures for Rook
+1047: Maximize Sum Of Array After K Negations
+1066: Fixed Point
+1074: High Five
+1082: Sum of Digits in the Minimum Number
+1094: Matrix Cells in Distance Order
+1102: Check If a Number Is Majority Element in a Sorted Array
+1115: Valid Boomerang
+1137: Height Checker
+1149: Intersection of Three Sorted Arrays
+1168: Duplicate Zeros
+1210: Mean of Array After Removing Some Elements
+1221: Element Appearing More Than 25% In Sorted Array
+1231: Replace Elements with Greatest Element on Right Side
+1256: Rank Transform of an Array
+1287: Distance Between Bus Stops
+1306: Minimum Absolute Difference
+1329: Minimum Cost to Move Chips to The Same Position
+1349: Check If It Is a Straight Line
+1378: Cells with Odd Values in a Matrix
+1386: Shift 2D Grid
+1392: Find the Difference of Two Arrays
+1400: Find Winner on a Tic Tac Toe Game
+1421: Find Numbers with Even Number of Digits
+1458: Sort Integers by The Number of 1 Bits
+1468: Check If N and Its Double Exist
+1482: How Many Numbers Are Smaller Than the Current Number
+1496: Lucky Numbers in a Matrix
+1510: Find Lucky Integer in an Array
+1519: Minimum Subsequence in Non-Increasing Order
+1528: Kids With the Greatest Number of Candies
+1548: Check If All 1's Are at Least Length K Places Away
+1560: Number of Students Doing Homework at a Given Time
+1574: Maximum Product of Two Elements in an Array
+1584: Average Salary Excluding the Minimum and Maximum Salary
+1626: Can Make Arithmetic Progression From Sequence
+1646: Kth Missing Positive Number
+1656: Count Good Triplets
+1682: Most Visited Sector in  a Circular Track
+1693: Sum of All Odd Length Subarrays
+1720: Crawler Log Folder
+1741: Sort Array by Increasing Frequency
+1751: Slowest Key
+1760: Check Array Formation Through Concatenation
+1775: Design an Ordered Stream
+1786: Count the Number of Consistent Strings
+1802: Number of Students Unable to Eat Lunch
+1833: Find the Highest Altitude
+1843: Number Of Rectangles That Can Form The Largest Square
+1848: Sum of Unique Elements
+1888: Find Nearest Point That Has the Same X or Y Coordinate
+1927: Maximum Ascending Subarray Sum
+1944: Truncate Sentence
+1975: Minimum Distance to the Target Element
+1983: Maximum Population Year
+2005: Check if All the Integers in a Range Are Covered
+2020: Remove One Element to Make the Array Strictly Increasing
+2048: Build Array from Permutation
+2093: Check If String Is a Prefix of Array
+2106: Find Greatest Common Divisor of Array
+2116: Count Number of Pairs With Absolute Difference K
+2132: Convert 1D Array Into 2D Array
+2144: Maximum Difference Between Increasing Elements
+2159: Two Out of Three
+2181: Smallest Index With Equal Value
+2195: Time Needed to Buy Tickets
+2204: Find Subsequence of Length K With the Largest Sum
+2215: Finding 3-Digit Even Numbers
+2231: Find First Palindromic String in the Array
+2254: Check if Every Row and Column Contains All Numbers
+2274: Keep Multiplying Found Values by Two
+2283: Sort Even and Odd Indices Independently
+2308: Divide Array Into Equal Pairs
+2316: Count Hills and Valleys in an Array
+2331: Intersection of Multiple Arrays
+2350: Find Closest Number to Zero
+2398: Check if Matrix Is X-Matrix
+2421: Maximum Number of Pairs in Array
+2436: Make Array Zero by Subtracting Equal Amounts
+2447: Merge Similar Items
+2459: Minimum Hours of Training to Win a Competition
+2476: Check Distances Between Same Letters
+2486: Most Frequent Even Element
+2518: The Employee That Worked on the Longest Task
+2536: Determine if Two Events Have Conflict
+2547: Odd String Difference
+2561: Number of Distinct Averages
+2585: Delete Greatest Value in Each Row
+2594: Count Pairs Of Similar Strings
+2602: Maximum Enemy Forts That Can Be Captured
+2624: Difference Between Element Sum and Digit Sum of an Array
+2639: Separate the Digits in an Array
+2668: Form Smallest Number From Two Digit Arrays
+2679: Count Distinct Numbers on Board
+2692: Take Gifts From the Richest Pile
+2698: Find the Array Concatenation Value
+2714: Left and Right Sum Differences
+2727: Number of Senior Citizens
+2756: Buy Two Chocolates
+2777: Find the Distinct Difference Array
+2791: Find the Losers of the Circular Game
+2836: Neither Minimum nor Maximum
+2847: Find Maximum Number of String Pairs
+2870: Longest Alternating Subarray
+2876: Number of Employees Who Met the Target
+2892: Check if Array is Good
+2917: Count Pairs Whose Sum is Less than Target
+3034: Points That Intersect With Cars
+3045: Minimum Right Shifts to Sort the Array
+3143: Longest Unequal Adjacent Groups Subsequence I
+3163: Subarrays Distinct Element Sum of Squares I
+3165: Find Indices With Index and Value Difference I
+3183: Find the K-or of an Array
+3193: Maximum Strong Pair XOR I
+3206: Find Common Elements Between Two Arrays
+3220: Count Tested Devices After Test Operations
+3226: Minimum Number Game
+3236: Smallest Missing Integer Greater Than Sequential Prefix Sum
+3246: Check if Bitwise OR Has Trailing Zeros
+3252: Count the Number of Incremovable Subarrays I
+3309: Count Prefix and Suffix Pairs I
+3320: Maximum Number of Operations With the Same Score I
+3324: Split the Array
+3331: Minimum Operations to Exceed Threshold Value I
